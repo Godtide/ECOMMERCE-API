@@ -3,7 +3,7 @@ API for managing an e-commerce platform, including user, product, and order mana
 
 # To start
 
-1) Git clone repository 
+1) Git clone repository [here](https://github.com/Godtide/ECOMMERCE-API)
 
 2)  Add .env variables
 ```
